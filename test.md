@@ -5,7 +5,7 @@
 # Ready Up
 
 ## Step 1
-When all crew members are logged into the world and ready, run the ``||artemis.i'm ready||`` block
+TEST MARKDOWN CONTAINS ALL BLOCKS
 
 ```ghost
     artemis.startGame()
