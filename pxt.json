@@ -9,7 +9,11 @@
     "files": [
         "startGame.md",
         "test.md",
-        "tutorial-info-cache.json"
+        "tutorial-info-cache.json",
+        "startGameP1.md",
+        "startGameP2.md",
+        "startGameP3.md",
+        "startGameP4.md"
     ],
     "testFiles": [],
     "targetVersions": {
