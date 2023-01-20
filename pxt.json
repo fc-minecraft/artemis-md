@@ -6,13 +6,9 @@
         "builder": "*"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
-        "README.md"
+        "startGame.md"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "targetVersions": {
         "target": "1.7.6",
         "targetId": "minecraft"
