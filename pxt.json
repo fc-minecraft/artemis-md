@@ -13,7 +13,9 @@
         "startGameP1.md",
         "startGameP2.md",
         "startGameP3.md",
-        "startGameP4.md"
+        "startGameP4.md",
+        "marsA11.md",
+        "asteroidA12.md"
     ],
     "testFiles": [],
     "targetVersions": {
