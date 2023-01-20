@@ -5,7 +5,7 @@
 # Ready Up
 
 ## Step 1
-TEST MARKDOWN CONTAINS ALL BLOCKS
+TEST MARKDOWN CONTAINS ALL BLOCKS (4:46)
 
 ```ghost
     artemis.startGame()
@@ -15,5 +15,5 @@ TEST MARKDOWN CONTAINS ALL BLOCKS
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.2
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.3
 ```
