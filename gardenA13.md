@@ -9,9 +9,9 @@ Plant three seeds in the locations marked with an X. The order of the positions 
 
 ```ghost    
     artemis.agentMoveFoot1()
-    artemis.lundarGarden1A13()      
-    artemis.lundarGarden2A13()      
-    artemis.lundarGarden3A13()      
+    artemis.lunarGarden1A13()
+    artemis.lunarGarden2A13()
+    artemis.lunarGarden3A13()
 ```
 ```template
     //

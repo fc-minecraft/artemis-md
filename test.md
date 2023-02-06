@@ -25,5 +25,5 @@ TEST MARKDOWN CONTAINS ALL BLOCKS (2/6/2023 3:38)
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.8
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.9
 ```
