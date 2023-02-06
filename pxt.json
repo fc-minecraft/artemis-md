@@ -16,7 +16,8 @@
         "startGameP4.md",
         "marsA11.md",
         "asteroidA12.md",
-        "noCode.md"
+        "noCode.md",
+        "gardenA13.md"
     ],
     "testFiles": [],
     "targetVersions": {
@@ -25,5 +26,6 @@
     },
     "supportedTargets": [
         "minecraft"
-    ]
+    ],
+    "preferredEditor": "tsprj"
 }
