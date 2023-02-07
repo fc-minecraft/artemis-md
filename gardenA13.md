@@ -18,5 +18,5 @@ Plant three seeds in the locations marked with an X. The order of the positions 
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.9
 ```
