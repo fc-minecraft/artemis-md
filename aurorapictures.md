@@ -2,13 +2,13 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Ready Up Player 3
+# Aurora Pictures
 
 ## Step 1
-When all crew members are logged into the world and ready, run the ``||artemis.go for launch||`` block
+Using the grid, take (3) pictures of the aurora's using the ``||artemis.take picture||`` block.
 
 ```ghost
-    artemis.startGameP3()
+    artemis.takePictureA14()
 ```
 ```template
     //

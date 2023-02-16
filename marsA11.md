@@ -2,13 +2,13 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Ready Up
+# Mars Recon
 
 ## Step 1
-Navigate the Agent to the X and take a picture
+Navigate the Agent using the ``||artemis.rover move||`` block to the green X and then use ``||artemis.take picture||`` block to take a picture
 
 ```ghost
-    artemis.agentMoveFoot3()
+    artemis.roverMoveA11()
     artemis.takePictureA11()
 ```
 ```template
@@ -16,5 +16,5 @@ Navigate the Agent to the X and take a picture
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.10
 ```

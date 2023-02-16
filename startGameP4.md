@@ -5,7 +5,7 @@
 # Ready Up Player 4
 
 ## Step 1
-When all crew members are logged into the world and ready, run the ``||artemis.i'm ready||`` block
+When all crew members are logged into the world and ready, run the ``||artemis.go for launch||`` block
 
 ```ghost
     artemis.startGameP4()
@@ -15,5 +15,5 @@ When all crew members are logged into the world and ready, run the ``||artemis.i
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.10
 ```

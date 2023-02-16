@@ -2,13 +2,13 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Ready Up
+# Asteroid Mining
 
 ## Step 1
-Navigate the Agent to the X and mine the gold
+Use the ``||artemis.rover move||`` block to navigate the rover to the marked location and then use ``||artemis.mine asteroid||`` block to mine it.
 
 ```ghost
-    artemis.agentMoveFoot1()
+    artemis.roverMoveA12()
     artemis.mineAsteroidA12()
 ```
 ```template
@@ -16,5 +16,5 @@ Navigate the Agent to the X and mine the gold
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.10
 ```

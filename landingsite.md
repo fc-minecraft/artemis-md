@@ -2,13 +2,13 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Ready Up Player 3
+# Landing Site
 
 ## Step 1
-When all crew members are logged into the world and ready, run the ``||artemis.go for launch||`` block
+Using the grid, mark three locations using the ``||artemis.mark location||`` block that have ice and are flat.
 
 ```ghost
-    artemis.startGameP3()
+    artemis.markLocationA17()
 ```
 ```template
     //

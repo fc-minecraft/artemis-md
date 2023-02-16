@@ -2,13 +2,13 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Ready Up Player 3
+# Laser Alignment
 
 ## Step 1
-When all crew members are logged into the world and ready, run the ``||artemis.go for launch||`` block
+Choose the location from the grid using the ``||artemis.aim at||`` block. If you choose the correct location, the link will be established.
 
 ```ghost
-    artemis.startGameP3()
+    artemis.aimAtA18()
 ```
 ```template
     //
