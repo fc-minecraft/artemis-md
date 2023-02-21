@@ -15,5 +15,5 @@ Using the grid, mark three locations using the ``||artemis.mark location||`` blo
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.10
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.17
 ```

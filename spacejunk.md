@@ -16,5 +16,5 @@ Guide the ADRV using the ``||artemis.ADRV move||`` block to each piece of debris
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.10
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.17
 ```

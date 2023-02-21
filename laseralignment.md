@@ -15,5 +15,5 @@ Choose the location from the grid using the ``||artemis.aim at||`` block. If you
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.10
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.17
 ```

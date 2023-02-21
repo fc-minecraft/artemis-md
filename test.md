@@ -11,20 +11,30 @@ TEST MARKDOWN CONTAINS ALL BLOCKS (2/21/2023 4:28)
     artemis.startGameP1()
     artemis.startGameP2()
     artemis.startGameP3()
-    artemis.startGameP4()     
+    artemis.startGameP4()    
     artemis.agentMoveFoot1()
     artemis.agentMoveFoot3()
+    artemis.roverMoveA11()
     artemis.takePictureA11()
+    artemis.roverMoveA12()
     artemis.mineAsteroidA12()
-    artemis.lunarGarden1A13()      
-    artemis.lunarGarden2A13()      
-    artemis.lunarGarden3A13() 
-    artemis.setLocationA15()     
+    artemis.lunarGarden1A13()  
+    artemis.takePictureA14()
+    artemis.setLocationA15() 
+    artemis.adrvMoveA16()
+    artemis.collectDebrisA16() 
+    artemis.markLocationA17()    
+    artemis.deployCubsatA18()
+    artemis.aimAtA19()
+    artemis.clearDebrisA20()
+    artemis.extendArmA21()
+    artemis.loadCargoA21()
+        
 ```
 ```template
     //
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.16
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.17
 ```
