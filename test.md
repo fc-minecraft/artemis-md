@@ -5,7 +5,7 @@
 # Ready Up
 
 ## Step 1
-TEST MARKDOWN CONTAINS ALL BLOCKS (2/21/2023 4:28)
+TEST MARKDOWN CONTAINS ALL BLOCKS (2/21/2023 4:55)
 
 ```ghost
     artemis.startGameP1()
