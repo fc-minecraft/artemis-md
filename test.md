@@ -18,12 +18,13 @@ TEST MARKDOWN CONTAINS ALL BLOCKS (2/7/2023 2:38)
     artemis.mineAsteroidA12()
     artemis.lunarGarden1A13()      
     artemis.lunarGarden2A13()      
-    artemis.lunarGarden3A13()      
+    artemis.lunarGarden3A13() 
+    artemis.setLocationA15()     
 ```
 ```template
     //
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.10
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.11
 ```
