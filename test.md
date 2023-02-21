@@ -5,7 +5,7 @@
 # Ready Up
 
 ## Step 1
-TEST MARKDOWN CONTAINS ALL BLOCKS (2/7/2023 2:38)
+TEST MARKDOWN CONTAINS ALL BLOCKS (2/21/2023 3:33)
 
 ```ghost
     artemis.startGameP1()
@@ -26,5 +26,5 @@ TEST MARKDOWN CONTAINS ALL BLOCKS (2/7/2023 2:38)
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.11
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.12
 ```
