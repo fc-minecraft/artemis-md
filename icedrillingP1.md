@@ -5,15 +5,15 @@
 # Ice Drilling
 
 ## Step 1
-Navigate the lander to one of the three marked locations so your partner can drill down and collect a sample.
+Navigate the rover using the ``||artemis.rover move||`` block to a location with ice so your partner can drill down and collect a sample.
 
 ```ghost
-    artemis.agentMoveFoot1()
+    artemis.roverMoveA6()
 ```
 ```template
     //
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.20
 ```

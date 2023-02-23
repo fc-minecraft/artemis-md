@@ -5,15 +5,16 @@
 # Building Blocks
 
 ## Step 1
-Collect (3) blocks of lunar material that your partner will be able to melt it down and test its strength. Discuss with your partner how much material they think they'll need.
+Navigate the rover to (3) piles of lunar regolith using the ``||artemis.rover move||`` block and then collect them using the ``||artemis.collect regolith||`` block.
 
 ```ghost
-    artemis.agentMoveFoot1()
+    artemis.roverMoveA5()
+    artemis.collectBlockA5()
 ```
 ```template
     //
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.20
 ```
