@@ -8,7 +8,7 @@
 Navigate the Agent to each green X using the ``||artemis.agent move||`` block and use the ``||artemis.plant seed||`` block to plant a seed at each of those locations.
 
 ```ghost    
-    artemis.agentMoveFoot1()
+    artemis.agentMoveA13()
     artemis.lunarGarden1A13()
 ```
 ```template
@@ -16,5 +16,5 @@ Navigate the Agent to each green X using the ``||artemis.agent move||`` block an
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.17
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.21
 ```
