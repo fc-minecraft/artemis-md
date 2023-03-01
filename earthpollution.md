@@ -15,5 +15,5 @@ Using the grid, locate and deploy CubeSats over New York USA, London England, an
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.39
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.40
 ```
