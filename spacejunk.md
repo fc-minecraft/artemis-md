@@ -16,5 +16,5 @@ Guide the Agent using the ``||artemis.agent move||`` block to each piece of debr
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.34
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.39
 ```

@@ -15,5 +15,5 @@ Using the grid, choose a new splashdown location using the ``||artemis.set locat
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.34
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.39
 ```

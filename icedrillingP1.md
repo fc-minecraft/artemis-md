@@ -15,5 +15,5 @@ Navigate the rover using the ``||artemis.rover move||`` block to a location with
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.34
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.39
 ```

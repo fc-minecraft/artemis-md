@@ -17,5 +17,5 @@ After your partner collects enough material, melt it down using the ``||artemis.
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.34
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.39
 ```
