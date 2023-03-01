@@ -15,5 +15,5 @@ Using the grid, take (3) pictures of the aurora's using the ``||artemis.take pic
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.17
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.34
 ```

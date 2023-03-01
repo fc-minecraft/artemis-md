@@ -14,10 +14,19 @@ TEST MARKDOWN CONTAINS ALL BLOCKS (2/21/2023 4:55)
     artemis.startGameP4()    
     artemis.agentMoveFoot1()
     artemis.agentMoveFoot3()
+    artemis.roverMoveA5()
+    artemis.collectBlockA5()
+    artemis.meltRegolithA5()
+    artemis.castBlocksA5()
+    artemis.testBlockStrengthA5()
+    artemis.roverMoveA6()
+    artemis.drillDownA6()
+    artemis.collectSampleA6()
     artemis.roverMoveA11()
     artemis.takePictureA11()
     artemis.roverMoveA12()
     artemis.mineAsteroidA12()
+    artemis.agentMoveA13()
     artemis.lunarGarden1A13()  
     artemis.takePictureA14()
     artemis.setLocationA15() 
@@ -36,5 +45,5 @@ TEST MARKDOWN CONTAINS ALL BLOCKS (2/21/2023 4:55)
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.17
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.34
 ```
