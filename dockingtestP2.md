@@ -17,5 +17,5 @@ Wait for your team communicator to tell you when to run your code. Running your 
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.45
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.46
 ```
