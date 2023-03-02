@@ -41,6 +41,9 @@ TEST MARKDOWN CONTAINS ALL BLOCKS (3/1/2023 5:20)
     artemis.clearDebrisA20()
     artemis.extendArmA21()
     artemis.loadCargoA21()
+    artemis.setLocationA8P1()
+    artemis.takePictureA8P2()
+    artemis.viperMoveA8P2()
         
 ```
 ```template
@@ -48,5 +51,5 @@ TEST MARKDOWN CONTAINS ALL BLOCKS (3/1/2023 5:20)
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.43
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.47
 ```
