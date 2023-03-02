@@ -25,6 +25,9 @@ TEST MARKDOWN CONTAINS ALL BLOCKS (3/1/2023 5:20)
     artemis.roverMoveA6()
     artemis.drillDownA6()
     artemis.collectSampleA6()
+    artemis.togglePowerA9P1()
+    artemis.placeIngredientA9P1()
+    artemis.rehydrateA9P1()
     artemis.roverMoveA11()
     artemis.takePictureA11()
     artemis.roverMoveA12()
@@ -51,5 +54,5 @@ TEST MARKDOWN CONTAINS ALL BLOCKS (3/1/2023 5:20)
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.47
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.49
 ```
