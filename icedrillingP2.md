@@ -16,5 +16,5 @@ Once your partner gets the lander into place, drill down using the ``||artemis.d
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.40
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.54
 ```

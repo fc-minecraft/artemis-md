@@ -17,6 +17,9 @@ TEST MARKDOWN CONTAINS ALL BLOCKS (3/1/2023 5:20)
     artemis.rotateRingA2P2()
     artemis.rotateRingA2P3()
     artemis.rotateRingA2P4()
+    artemis.orionMoveDirectionA1PX()
+    artemis.rotateOrionA2PX()
+    artemis.rollOrionA2PX()
     artemis.roverMoveA5()
     artemis.collectBlockA5()
     artemis.meltRegolithA5()
@@ -56,5 +59,5 @@ TEST MARKDOWN CONTAINS ALL BLOCKS (3/1/2023 5:20)
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.52
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.54
 ```

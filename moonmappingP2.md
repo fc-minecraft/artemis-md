@@ -16,5 +16,5 @@ Once your partner marks three locations to visit, you'll see three green X's sho
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.47
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.54
 ```

@@ -16,5 +16,5 @@ Once your partner finishes rehydrating the ingredients needed for the pizza, it'
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.52
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.54
 ```

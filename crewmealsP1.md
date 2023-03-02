@@ -17,5 +17,5 @@ Your job is to work the rehydration station. You'll need to rehydrate the tomato
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.51
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.54
 ```
