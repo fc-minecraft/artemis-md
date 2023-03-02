@@ -5,7 +5,10 @@
 # Crew Meals Player 2
 
 ## Step 1
-Once your partner finishes rehydrating the ingredients needed for the pizza, it'll be your turn to make the pizza! Wait for your partner to confirm they finished the rehydration process and then make a tomato sauce and cheese pizza with pepperoni.
+Once your partner finishes rehydrating the tomato sauce, use the ``||artemis.add||`` block to add all the ingredients the crew wants and then use the ``||artemis.serve pizza||`` block. The pizza should use the following ingredients: 
+    - Tomato Sauce
+    - Cheese
+    - Pepperoni
 
 ```ghost
     artemis.addIngredientsA9P2()

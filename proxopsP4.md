@@ -5,10 +5,7 @@
 # Prox Ops Player 4
 
 ## Step 1
-You will be helping to control the Orion during this test. You have access to all three maneuvers but should only perform the one your team communicator assigns to you. 
-
-Wait for your team communicator to tell you when to run your code. Running your code too early or too late will fail the test.
-
+You will be helping to pilot the Orion during this test. You have access to all three maneuvers but should only perform the one your team communicator assigns to you. Wait for your team communicator to tell you when to run your code. Running your code too early or too late will fail the test.
 
 ```ghost
     artemis.orionMoveDirectionA1PX()

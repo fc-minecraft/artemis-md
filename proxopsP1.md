@@ -5,11 +5,11 @@
 # Prox Ops Player 1
 
 ## Step 1
-You're the communicator! Here are the three steps that need to be done, and the order they need to be done. Each team member can only do one step. If someone tries to do more than one step or does a step in the wrong order, the test will not be successful.
+You're the communicator! There are (3) movements that need to be done. Each team member can only do one step. If someone tries to do more than one step or does a step in the wrong order, the test will not be successful.
 
-Step 1: Move Orion away from the second stage booster
-Step 2: Rotate the Orion spacecraft 360° counterclockwise
-Step 3: Roll the Orion spacecraft 180°
+    Step 1: Move Orion away from the second stage booster
+    Step 2: Rotate the Orion spacecraft 360° counterclockwise
+    Step 3: Roll the Orion spacecraft 180°
 
 
 ```ghost

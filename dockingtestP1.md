@@ -2,14 +2,14 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Lunar Garden
+# Docking Test Player 1
 
 ## Step 1
-You're the communicator! The locking mechanism is made up of 3 rings with an arrow on them and then three separate symbols around the outer edge. To fully engage the locks your team must follow the steps exactly as described. Each team member should only control a single ring. Your job is to assign each of them a ring, and let them know what symbol they should set it to.
+You're the communicator! To fully engage the docking latch, all 3 rings need to be turned to the correct setting. Each team member should only control a single ring. Your job is to assign each of them a ring and tell them what color it should be set to. This needs to be done in the following order:
 
-Step 1: Outer ring (green) should be set to the triangle
-Step 2: Middle ring (red) should be set to the square
-Step 3: Inner ring (blue) should be set to the circle
+    Step 1: Inner ring should be set to green
+    Step 2: Middle ring should be set to blue
+    Step 3: Outer ring should be set to red
 
 ```ghost    
 null
