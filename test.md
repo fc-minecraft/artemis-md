@@ -28,6 +28,8 @@ TEST MARKDOWN CONTAINS ALL BLOCKS (3/1/2023 5:20)
     artemis.togglePowerA9P1()
     artemis.placeIngredientA9P1()
     artemis.rehydrateA9P1()
+    artemis.addIngredientsA9P2()
+    artemis.servePizzaA9P2()
     artemis.roverMoveA11()
     artemis.takePictureA11()
     artemis.roverMoveA12()
@@ -54,5 +56,5 @@ TEST MARKDOWN CONTAINS ALL BLOCKS (3/1/2023 5:20)
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.49
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.52
 ```
