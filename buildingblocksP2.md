@@ -17,5 +17,5 @@ After your partner collects enough material, process it down using the ``||artem
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.54
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.55
 ```

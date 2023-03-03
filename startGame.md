@@ -15,5 +15,5 @@ When all crew members are logged into the world and ready, run the ``||artemis.g
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.54
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.55
 ```

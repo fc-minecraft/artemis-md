@@ -16,5 +16,5 @@ Navigate the Agent using the ``||artemis.rover move||`` block to the green X and
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.54
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.55
 ```
