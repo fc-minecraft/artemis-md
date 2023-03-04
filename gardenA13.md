@@ -16,5 +16,5 @@ Navigate the Agent to each green X using the ``||artemis.agent move||`` block an
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.55
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.56
 ```

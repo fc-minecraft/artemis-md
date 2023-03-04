@@ -16,5 +16,5 @@ Extend the robotic arm using the ``||artemis.extend arm||`` block to the red pie
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.55
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.56
 ```

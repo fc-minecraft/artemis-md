@@ -15,5 +15,5 @@ To complete the docking sequence each ring needs to be rotated to the correct se
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.55
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.56
 ```

@@ -16,5 +16,5 @@ Once your partner gets the rover into place, drill down using the ``||artemis.dr
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.55
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.56
 ```

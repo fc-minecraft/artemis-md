@@ -16,5 +16,5 @@ Navigate through the pipes using the ``||artemis.agent move||`` block and clear 
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.55
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.56
 ```

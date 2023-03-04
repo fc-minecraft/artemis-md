@@ -15,5 +15,5 @@ The first thing we'll need to do is mark the (3) locations we want to investigat
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.55
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.56
 ```

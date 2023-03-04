@@ -16,5 +16,5 @@ Navigate the rover to (3) piles of lunar regolith using the ``||artemis.rover mo
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.55
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.56
 ```
