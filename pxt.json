@@ -38,7 +38,9 @@
         "dockingtestP1.md",
         "dockingtestP2.md",
         "dockingtestP3.md",
-        "dockingtestP4.md"
+        "dockingtestP4.md",
+        "dockingtestP1b.md",
+        "dockingtestP1c.md"
     ],
     "testFiles": [],
     "targetVersions": {
