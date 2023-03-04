@@ -40,7 +40,9 @@
         "dockingtestP3.md",
         "dockingtestP4.md",
         "dockingtestP1b.md",
-        "dockingtestP1c.md"
+        "dockingtestP1c.md",
+        "proxopsP1b.md",
+        "proxopsP1c.md"
     ],
     "testFiles": [],
     "targetVersions": {
