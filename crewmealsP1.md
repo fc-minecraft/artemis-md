@@ -17,5 +17,5 @@ Your job is to work the rehydration station. Use the ``||artemis.toggle power||`
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.57
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.58
 ```
