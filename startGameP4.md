@@ -5,7 +5,7 @@
 # Go For Launch Player 4
 
 ## Step 1
-When all crew members who are playing are logged into the world and ready, run the ``||artemis.go for launch||`` block
+This game supports between 1 and 4 players. When all crew members who are playing are logged into the world and ready, run the ``||artemis.go for launch||`` block
 
 ```ghost
     artemis.startGameP4()
