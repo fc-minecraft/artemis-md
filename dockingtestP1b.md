@@ -11,6 +11,7 @@ You're the communicator! To fully engage the docking latch, all 3 rings need to 
 ~~Step 2: Middle ring should be set to blue~~  
 Step 3: Outer ring should be set to red
 
+(Auto-complete AI active. Step 1 and Step 2 has been automatically completed)
 ```ghost    
 null
 ```

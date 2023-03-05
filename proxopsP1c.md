@@ -11,7 +11,7 @@ You're the communicator! There are (3) movements that need to be done. Each team
 Step 2: Rotate the Orion spacecraft 360° counterclockwise  
 Step 3: Adjust the Roll on the Orion spacecraft 180°  
 
-
+(Auto-complete AI active. Step 1 has been automatically completed)
 ```ghost
 null
 ```
