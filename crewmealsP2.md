@@ -5,7 +5,7 @@
 # Crew Meals Player 2
 
 ## Step 1
-Once your partner finishes rehydrating the tomato sauce, use the ``||artemis.add||`` block to add all the ingredients the crew wants and then use the ``||artemis.serve pizza||`` block. The pizza should use the following ingredients: 
+Once your partner finishes rehydrating the tomato sauce, it's your turn! Use the ``||artemis.add||`` block to add all the ingredients the crew wants and then use the ``||artemis.serve pizza||`` block. The pizza should have the following ingredients: 
     - Tomato Sauce
     - Cheese
     - Pepperoni
