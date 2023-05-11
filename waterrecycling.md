@@ -16,5 +16,5 @@ Guide the Agent through the pipes using the ``||artemis.agent move||`` block and
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.59
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.61
 ```
