@@ -2,7 +2,7 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Lunar Garden
+# ISS Help
 
 ## Step 1
 The crew needs help loading the Magenta colored cargo box onto the ISS. Use the ``||artemis: retrieve cargo||`` block to select the Magenta cargo box and then use the ``||artemis: load cargo||`` block to load it onto the ISS.
