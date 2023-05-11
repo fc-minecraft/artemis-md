@@ -15,5 +15,5 @@ Using the grid, locate the coordinates of the receiver and align the communicati
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.56
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.59
 ```
