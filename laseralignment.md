@@ -5,10 +5,10 @@
 # Laser Alignment
 
 ## Step 1
-Choose the location from the grid using the ``||artemis.aim at||`` block. If you choose the correct location, the link will be established.
+Using the grid, locate the coordinates of the receiver and align the communications laser using the ``||artemis:set alignment||`` block. 
 
 ```ghost
-    artemis.aimAtA18()
+    artemis.setAlignmentA19()
 ```
 ```template
     //

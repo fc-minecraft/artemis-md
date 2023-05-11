@@ -42,7 +42,12 @@
         "dockingtestP1b.md",
         "dockingtestP1c.md",
         "proxopsP1b.md",
-        "proxopsP1c.md"
+        "proxopsP1c.md",
+        "waterrecycling.md",
+        "laseralignment.md",
+        "isshelpblue.md",
+        "isshelpyellow.md",
+        "isshelpmagenta.md"
     ],
     "testFiles": [],
     "targetVersions": {

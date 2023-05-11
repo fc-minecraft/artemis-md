@@ -5,7 +5,7 @@
 # Aurora Pictures
 
 ## Step 1
-Using the grid, take (3) pictures of the aurora's using the ``||artemis.take picture||`` block.
+Using the grid, take (3) pictures of the aurora's using the ``||artemis:take picture||`` block.
 
 ```ghost
     artemis.takePictureA14()
