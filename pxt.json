@@ -47,11 +47,14 @@
         "laseralignment.md",
         "isshelpblue.md",
         "isshelpyellow.md",
-        "isshelpmagenta.md"
+        "isshelpmagenta.md",
+        "humanphysP2.md",
+        "humanphysP3.md",
+        "humanphysP4.md"
     ],
     "testFiles": [],
     "targetVersions": {
-        "target": "1.7.6",
+        "target": "1.7.7",
         "targetId": "minecraft"
     },
     "supportedTargets": [
