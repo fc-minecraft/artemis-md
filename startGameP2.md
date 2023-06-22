@@ -15,5 +15,5 @@ This game supports between 1 and 4 players. When all crew members who are playin
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.56
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
 ```

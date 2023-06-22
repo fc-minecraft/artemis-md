@@ -17,5 +17,5 @@ The first thing you'll need to do it rehydrate the tomato sauce, that's your job
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.58
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
 ```

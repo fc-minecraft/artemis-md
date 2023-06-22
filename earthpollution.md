@@ -15,5 +15,5 @@ Using the grid, locate and deploy CubeSats over the (3) cities that have visible
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.56
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
 ```

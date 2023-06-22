@@ -19,5 +19,5 @@ Once your partner finishes rehydrating the tomato sauce, it's your turn! Use the
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.56
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
 ```

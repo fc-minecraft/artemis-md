@@ -15,5 +15,5 @@ You weigh 50kg (110 lbs) and are 165cm (5'4'') tall. Give that info to your team
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.62
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
 ```

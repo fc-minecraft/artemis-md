@@ -15,5 +15,5 @@ You weigh 80kg (180 lbs) and are 190cm (6'2'') tall. Give that info to your team
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.62
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
 ```

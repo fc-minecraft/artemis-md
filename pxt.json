@@ -50,7 +50,10 @@
         "isshelpmagenta.md",
         "humanphysP2.md",
         "humanphysP3.md",
-        "humanphysP4.md"
+        "humanphysP4.md",
+        "radiationdrillP2.md",
+        "radiationdrillP3.md",
+        "radiationdrillP4.md"
     ],
     "testFiles": [],
     "targetVersions": {

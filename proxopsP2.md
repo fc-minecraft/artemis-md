@@ -17,5 +17,5 @@ You will be helping to pilot the Orion during this test. You have access to all 
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.56
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
 ```

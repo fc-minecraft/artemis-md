@@ -16,5 +16,5 @@ The crew needs help loading the Magenta colored cargo box onto the ISS. Use the 
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.61
+artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
 ```
