@@ -5,7 +5,7 @@
 # Radiation Drill Player 4
 
 ## Step 1
-Each player will have their own individual tasks. As player 4, you will need to complete step 1 which is to clear the shelter area of cargo using the ``||artemis: clear cargo||`` block. Don't run your code until your team communicator tells you to.
+Each player will have their own individual tasks. As player 4, you will clear the shelter area of cargo using the ``||artemis: clear cargo||`` block. Don't run your code until your team communicator tells you to.
 
 ```ghost
     artemis.clearShelterA3P2()
