@@ -1,6 +1,6 @@
 {
     "name": "artemis-md",
-    "version": "0.0.53",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -57,7 +57,7 @@
     ],
     "testFiles": [],
     "targetVersions": {
-        "target": "1.7.7",
+        "target": "2.0.30",
         "targetId": "minecraft"
     },
     "supportedTargets": [
