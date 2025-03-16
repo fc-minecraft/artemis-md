@@ -2,10 +2,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Water Recycling
+# Переработка воды
 
 ## Step 1
-Guide the Agent through the pipes using the ``||artemis.agent move||`` block and remove each piece of debris using the ``||artemis.remove debris||`` block.
+Проведи Агента через трубы с помощью блока "переместить агента" и удали каждый обломок с помощью блока "удалить обломки".
 
 ```ghost
     artemis.agentMoveA20()
@@ -16,5 +16,5 @@ Guide the Agent through the pipes using the ``||artemis.agent move||`` block and
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

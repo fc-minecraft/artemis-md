@@ -2,10 +2,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Moon Mapping
+# Карта Луны
 
 ## Step 1
-Once your partner marks three locations to visit, you'll see three green X's show up on your screen. Use the ``||artemis.VIPER move||`` block to navigate to each location, and the ``||artemis.take picture||`` block to take a picture at each location.
+Как только твой партнёр отметит три места для посещения, на твоём экране появятся три зелёных крестика. Используй блок "переместить VIPER", чтобы добраться до каждого места, и блок "сделать фото", чтобы сделать снимок в каждом месте.
 
 ```ghost
     artemis.takePictureA8P2()
@@ -16,5 +16,5 @@ Once your partner marks three locations to visit, you'll see three green X's sho
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

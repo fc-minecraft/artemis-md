@@ -2,11 +2,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Go For Launch Player 4
+# Подготовка к запуску. 4 игрока
 
 ## Step 1
-This game supports between 1 and 4 players. When all crew members who are playing are logged into the world and ready, run the ``||artemis.go for launch||`` block
-
+Эта игра поддерживает от 1 до 4 игроков. Когда все члены экипажа, которые играют, вошли в мир и готовы, запусти блок "перейти к запуску"
 ```ghost
     artemis.startGameP4()
 ```
@@ -15,5 +14,5 @@ This game supports between 1 and 4 players. When all crew members who are playin
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

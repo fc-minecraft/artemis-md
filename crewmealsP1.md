@@ -2,10 +2,11 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Crew Meals Player 1
+# Еда для экипажа Игрок 1
 
 ## Step 1
-The first thing you'll need to do it rehydrate the tomato sauce, that's your job. Use the ``||artemis.toggle power||`` block to turn on the rehydration system. Then use the ``||artemis.place freeze-dried||`` block to place the tomato sauce into the rehydration station and set the amount of water using the ``||artemis.rehydrate with||`` block. Check the chart to see how much water to use. Finally, don't forget to turn off the machine when you're done.
+Сначала тебе нужно будет восстановить томатный соус, это твоя задача. Используй блок "включить питание", чтобы включить систему регидратации. Затем используй блок "поместить сублимированный продукт", чтобы поместить томатный соус в станцию регидратации, и установи количество воды с помощью блока "регидратировать с". Проверь таблицу, чтобы узнать, сколько воды использовать. И наконец, не забудь выключить машину, когда закончишь.
+
 
 ```ghost
     artemis.togglePowerA9P1()
@@ -17,5 +18,5 @@ The first thing you'll need to do it rehydrate the tomato sauce, that's your job
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

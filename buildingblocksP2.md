@@ -2,10 +2,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Building Blocks
+# Строительные блоки
 
 ## Step 1
-After your partner collects enough material, process it down using the ``||artemis.process regolith||`` block, cast it using the ``||artemis.cast block||`` block, and then test its strength using the ``||artemis.test block-strength||`` block.
+После того как твой партнёр соберёт достаточно материала, обработай его с помощью блока "обработать реголит", отформуй с помощью блока "отформовать блок" и затем протестируй его прочность с помощью блока "протестировать прочность блока".
 
 ```ghost
     artemis.meltRegolithA5()
@@ -17,5 +17,5 @@ After your partner collects enough material, process it down using the ``||artem
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

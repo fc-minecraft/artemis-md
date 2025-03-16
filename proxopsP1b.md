@@ -2,16 +2,17 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Prox Ops Player 1
+# Проксимальные операции Игрок 1
 
 ## Step 1
-You're the communicator! There are (3) movements that need to be done. Each team member can only do one step. If someone tries to do more than one step or does a step in the wrong order, the test will not be successful.
+Ты отвечаешь за связь! Есть (3) движения, которые нужно выполнить. Каждый член команды может выполнить только один шаг. Если кто-то попытается выполнить больше одного шага или выполнит шаг в неправильном порядке, тест не будет успешным.
 
-~~Step 1: Move Orion away from the cryogenic propulsion stage~~  
-~~Step 2: Rotate the Orion spacecraft 360° counterclockwise~~  
-Step 3: Adjust the Roll on the Orion spacecraft 180°  
+~~Step 1: Уведи Орион от криогенной двигательной ступени~~
+~~Step 2: Поверни космический корабль Орион на 360° против часовой стрелки~~
+Step 3: Отрегулируй крен на космическом корабле Орион на 180°
 
-(Auto-complete AI active. Step 1 and Step 2 has been automatically completed)
+(Автозаполнение AI активно. Step 1 и Step 2 были автоматически завершены)
+
 
 ```ghost
 null

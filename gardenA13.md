@@ -2,10 +2,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Lunar Garden
+# Лунный сад
 
 ## Step 1
-Navigate the Agent to each green X using the ``||artemis.agent move||`` block and use the ``||artemis.plant seed||`` block to plant a seed at each of those locations.
+Направляй Агента к каждому зелёному крестику с помощью блока "переместить агента" и используй блок "посадить семя", чтобы посадить семя в каждом из этих мест.
 
 ```ghost    
     artemis.agentMoveA13()
@@ -16,5 +16,5 @@ Navigate the Agent to each green X using the ``||artemis.agent move||`` block an
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

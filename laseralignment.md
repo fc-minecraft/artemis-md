@@ -2,10 +2,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Laser Alignment
+# Настройка лазера
 
 ## Step 1
-Using the grid, locate the coordinates of the receiver and align the communications laser using the ``||artemis:set alignment||`` block. 
+Используя сетку, определи координаты приёмника и настрой коммуникационный лазер с помощью блока "установить выравнивание".
 
 ```ghost
     artemis.setAlignmentA19()
@@ -15,5 +15,5 @@ Using the grid, locate the coordinates of the receiver and align the communicati
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

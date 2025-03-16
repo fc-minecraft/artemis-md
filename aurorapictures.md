@@ -2,10 +2,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Aurora Pictures
+# Фотографии полярного сияния
 
 ## Step 1
-Using the grid, take (3) pictures of the aurora's using the ``||artemis:take picture||`` block.
+Используя сетку, сделай (3) фотографии полярного сияния с помощью блока "сделать фото".
 
 ```ghost
     artemis.takePictureA14()
@@ -15,5 +15,5 @@ Using the grid, take (3) pictures of the aurora's using the ``||artemis:take pic
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

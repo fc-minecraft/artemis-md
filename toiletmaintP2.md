@@ -2,10 +2,11 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Toilet Maintenance 
+# Обслуживание туалета
 
 ## Step 1
-Once your partner places the replacement pipes in each slot, adjust them so all the colors match up and everything flows correctly. Wait for confirmation from your partner before you begin.
+Как только твой партнёр установит заменяющие трубы в каждый паз, отрегулируй их так, чтобы все цвета совпадали и всё текло правильно. Дождись подтверждения от партнёра, прежде чем начинать.
+
 
 ```ghost
     artemis.agentMoveFoot1()
@@ -15,5 +16,5 @@ Once your partner places the replacement pipes in each slot, adjust them so all 
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

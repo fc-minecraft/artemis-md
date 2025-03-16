@@ -2,10 +2,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Mars Recon
+# Разведка Марса
 
 ## Step 1
-Navigate the Agent using the ``||artemis.rover move||`` block to the green X and then use ``||artemis.take picture||`` block to take a picture
+Направляй Агента с помощью блока "переместить ровер" к зелёному крестику и затем используй блок "сделать фото", чтобы сделать снимок.
 
 ```ghost
     artemis.roverMoveA11()
@@ -16,5 +16,5 @@ Navigate the Agent using the ``||artemis.rover move||`` block to the green X and
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

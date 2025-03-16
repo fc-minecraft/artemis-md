@@ -2,10 +2,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Ice Drilling
+# Бурение льда
 
 ## Step 1
-Navigate the rover using the ``||artemis.rover move||`` block to a location with ice so your partner can drill down and collect a sample.
+Направляй ровер с помощью блока "переместить ровер" к месту со льдом, чтобы твой партнёр мог пробурить и собрать образец.
 
 ```ghost
     artemis.roverMoveA6()
@@ -15,5 +15,5 @@ Navigate the rover using the ``||artemis.rover move||`` block to a location with
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

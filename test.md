@@ -59,5 +59,5 @@ TEST MARKDOWN CONTAINS ALL BLOCKS (3/1/2023 5:20)
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.56
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

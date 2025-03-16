@@ -2,10 +2,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Prox Ops Player 3
+# Проксимальные операции Игрок 3
 
 ## Step 1
-You will be helping to pilot the Orion during this test. You have access to all three maneuvers but should only perform the one your team communicator assigns to you. Wait for your team communicator to tell you when to run your code. Running your code too early or too late will fail the test.
+Ты будешь помогать пилотировать Орион во время этого теста. У тебя есть доступ ко всем трём манёврам, но ты должен выполнить только тот, который тебе назначит твой коммуникатор в команде. Дождись, пока твой коммуникатор скажет, когда запускать свой код. Запуск кода слишком рано или слишком поздно приведёт к неудаче теста.
 
 ```ghost
     artemis.orionMoveDirectionA1PX()
@@ -17,5 +17,5 @@ You will be helping to pilot the Orion during this test. You have access to all 
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

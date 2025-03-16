@@ -2,10 +2,11 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Toilet Maintenance 
+# Обслуживание туалета
 
 ## Step 1
-There are pipes missing in slots 1 and 2. Turn off the water and choose the pipe that matches each slot and place them there so your partner can adjust the pipe's directions.
+В пазах 1 и 2 отсутствуют трубы. Выключи воду и выбери трубу, подходящую для каждого паза, и установи их туда, чтобы твой партнёр мог отрегулировать направление труб.
+
 
 ```ghost
     artemis.agentMoveFoot1()
@@ -15,5 +16,5 @@ There are pipes missing in slots 1 and 2. Turn off the water and choose the pipe
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

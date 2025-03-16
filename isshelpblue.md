@@ -2,10 +2,11 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# ISS Help
+# Помощь МКС
 
 ## Step 1
-The crew needs help loading the Blue colored cargo box onto the ISS. Use the ``||artemis: retrieve cargo||`` block to select the Blue cargo box and then use the ``||artemis: load cargo||`` block to load it onto the ISS.
+Экипажу нужна помощь в загрузке синего грузового контейнера на МКС. Используй блок "извлечь груз", чтобы выбрать синий грузовой контейнер, а затем используй блок "загрузить груз", чтобы загрузить его на МКС.
+
 
 ```ghost    
     artemis.retrieveBlueGoalA21()
@@ -16,5 +17,5 @@ The crew needs help loading the Blue colored cargo box onto the ISS. Use the ``|
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

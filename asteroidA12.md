@@ -2,10 +2,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Asteroid Mining
+# Добыча на астероиде
 
 ## Step 1
-Use the ``||artemis.rover move||`` block to navigate the rover to the marked location and then use ``||artemis.mine asteroid||`` block to mine it.
+Используй блок "переместить ровер", чтобы направить ровер к отмеченному месту, а затем используй блок "добыть астероид", чтобы добыть его.
 
 ```ghost
     artemis.roverMoveA12()
@@ -16,5 +16,5 @@ Use the ``||artemis.rover move||`` block to navigate the rover to the marked loc
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

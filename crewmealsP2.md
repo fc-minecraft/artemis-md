@@ -2,13 +2,13 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Crew Meals Player 2
+# Еда для экипажа Игрок 2
 
 ## Step 1
-Once your partner finishes rehydrating the tomato sauce, it's your turn! Use the ``||artemis.add||`` block to add all the ingredients the crew wants and then use the ``||artemis.serve pizza||`` block. The pizza should have the following ingredients: 
-    - Tomato Sauce
-    - Cheese
-    - Pepperoni
+Когда твой партнёр закончит восстанавливать томатный соус, твоя очередь! Используй блок "добавить", чтобы добавить все ингредиенты, которые хочет экипаж, а затем используй блок "подать пиццу". Пицца должна содержать следующие ингредиенты:
+    - Томатный соус
+    - Сыр
+    - Пепперони
 
 ```ghost
     artemis.addIngredientsA9P2()
@@ -19,5 +19,5 @@ Once your partner finishes rehydrating the tomato sauce, it's your turn! Use the
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

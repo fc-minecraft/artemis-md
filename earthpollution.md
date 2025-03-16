@@ -2,10 +2,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Earth's Pollution
+# Загрязнение Земли
 
 ## Step 1
-Using the grid, locate and deploy CubeSats over the (3) cities that have visible pollution using the ``||artemis.deploy CubeSat to||`` block. 
+Используя сетку, найди и размести CubeSats над (3) городами, где видно загрязнение, с помощью блока "развернуть CubeSat".
 
 ```ghost
     artemis.deployCubsatA18()
@@ -15,5 +15,5 @@ Using the grid, locate and deploy CubeSats over the (3) cities that have visible
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

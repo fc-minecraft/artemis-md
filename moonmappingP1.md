@@ -2,10 +2,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Moon Mapping Player 1
+# Карта Луны Игрок 1
 
 ## Step 1
-The first thing we'll need to do is mark the (3) locations we want to investigate. Use the grid on your screen to find three locations with ice you want to explore, and then use the ``||artemis.mark location||`` block to mark the locations.
+Первое, что нам нужно сделать, — это отметить (3) места, которые мы хотим исследовать. Используй сетку на экране, чтобы найти три места со льдом, которые ты хочешь исследовать, а затем используй блок "отметить место", чтобы отметить эти места.
 
 ```ghost
     artemis.setLocationA8P1()
@@ -15,5 +15,5 @@ The first thing we'll need to do is mark the (3) locations we want to investigat
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

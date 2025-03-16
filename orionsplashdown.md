@@ -2,10 +2,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Orion Splashdown
+# Приводнение Ориона
 
 ## Step 1
-Using the grid, choose a new splashdown location using the ``||artemis.set location||`` block that is clear of storms and isn't over any land.
+Используя сетку, выбери новое место для приводнения с помощью блока "установить место", которое свободно от штормов и не находится над сушей.
 
 ```ghost
     artemis.setLocationA15()
@@ -15,5 +15,5 @@ Using the grid, choose a new splashdown location using the ``||artemis.set locat
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

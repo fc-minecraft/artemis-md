@@ -2,10 +2,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Landing Site
+# Место посадки
 
 ## Step 1
-Using the grid, mark three locations using the ``||artemis.mark location||`` block that have ice and are flat.
+Используя сетку, отметь три места с помощью блока "отметить место", где есть лёд и поверхность ровная.
 
 ```ghost
     artemis.markLocationA17()
@@ -15,5 +15,5 @@ Using the grid, mark three locations using the ``||artemis.mark location||`` blo
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

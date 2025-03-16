@@ -2,10 +2,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Ice Drilling
+# Бурение льда
 
 ## Step 1
-Once your partner gets the rover into place, drill down using the ``||artemis.drill down||`` block and then collect a sample using the ``||artemis.collect sample||`` block. Make sure you wait for your partner's code to finish or you'll start drilling too early.
+Как только твой партнёр поставит ровер на место, пробури скважину с помощью блока "бурить" и затем собери образец с помощью блока "собрать образец". Убедись, что ты дождался завершения кода твоего партнёра, иначе начнёшь бурить слишком рано.
 
 ```ghost
     artemis.drillDownA6()
@@ -16,5 +16,5 @@ Once your partner gets the rover into place, drill down using the ``||artemis.dr
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

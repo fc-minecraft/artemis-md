@@ -2,10 +2,11 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Human Physiology Player 2
+# Физиология человека Игрок 2
 
 ## Step 1
-You weigh 70kg (155 lbs) and are 180cm (5'9'') tall. Give that info to your team communicator so they could let you know how long you should exercise and then use the ``||artemis: exercise for||`` block to exercise for that amount of time.
+Ты весишь 70 кг (155 фунтов) и твой рост 180 см (5'9''). Передай эту информацию своему коммуникатору в команде, чтобы он сказал тебе, сколько времени нужно заниматься, а затем используй блок "заниматься" для выполнения упражнений в течение этого времени.
+
 
 ```ghost
     artemis.exerciseTimeA4P3()
@@ -15,5 +16,5 @@ You weigh 70kg (155 lbs) and are 180cm (5'9'') tall. Give that info to your team
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

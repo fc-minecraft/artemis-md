@@ -2,16 +2,17 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Docking Test Player 1
+# Тест стыковки Игрок 1
 
 ## Step 1
-You're the communicator! To fully engage the docking latch, all 3 rings need to be turned to the correct setting. Each team member should only control a single ring. Your job is to assign each of them a ring and tell them what color it should be set to. This needs to be done in the following order:
+Ты отвечаешь за связь! Чтобы полностью зафиксировать стыковочный замок, все 3 кольца должны быть повернуты в правильное положение. Каждый член команды должен управлять только одним кольцом. Твоя задача — назначить каждому из них кольцо и сказать, на какой цвет его нужно установить. Это нужно сделать в следующем порядке:
 
-~~Step 1: Inner ring should be set to green~~  
-~~Step 2: Middle ring should be set to blue~~  
-Step 3: Outer ring should be set to red
+~~Step 1: Внутреннее кольцо должно быть установлено на зелёный~~
+~~Step 2: Среднее кольцо должно быть установлено на синий~~
+Step 3: Внешнее кольцо должно быть установлено на красный
 
-(Auto-complete AI active. Step 1 and Step 2 has been automatically completed)
+(Автозаполнение AI активно. Step 1 и Step 2 были автоматически завершены)
+
 ```ghost    
 null
 ```

@@ -2,10 +2,11 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Building Blocks
+# Строительные блоки
 
 ## Step 1
-Navigate the rover to (3) piles of lunar regolith using the ``||artemis.rover move||`` block and then collect them using the ``||artemis.collect regolith||`` block.
+Направляй ровер к (3) кучам лунного реголита с помощью блока "переместить ровер" и затем собирай их с помощью блока "собрать реголит".
+
 
 ```ghost
     artemis.roverMoveA5()
@@ -16,5 +17,5 @@ Navigate the rover to (3) piles of lunar regolith using the ``||artemis.rover mo
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

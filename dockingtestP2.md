@@ -2,10 +2,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Docking Test Player 2
+# Тест стыковки Игрок 2
 
 ## Step 1
-To complete the docking sequence each ring needs to be rotated to the correct setting by using the ``||artemis.rotate||`` block. Each team member should only set a single ring. Your team communicator will tell you which ring you should control and what color it should be set to. Wait for your team communicator to tell you when to run your code. Running your code too early or too late will fail the test.
+Чтобы завершить процесс стыковки, каждое кольцо должно быть повернуто в правильное положение с помощью блока "повернуть". Каждый член команды должен управлять только одним кольцом. Твой коммуникатор в команде скажет тебе, какое кольцо ты должен контролировать и на какой цвет его нужно установить. Дождись, пока твой коммуникатор скажет, когда запускать свой код. Запуск кода слишком рано или слишком поздно приведёт к неудаче теста.
 
 ```ghost
     artemis.rotateRingA2P2()
@@ -15,5 +15,5 @@ To complete the docking sequence each ring needs to be rotated to the correct se
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

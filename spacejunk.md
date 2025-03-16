@@ -2,10 +2,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Space Junk
+# Космический мусор
 
 ## Step 1
-Guide the Agent using the ``||artemis.agent move||`` block to each piece of debris and collect it using the ``||artemis.collect debris||`` block.
+Направляй Агента с помощью блока "переместить агента" к каждому обломку и собирай его с помощью блока "собрать обломки".
 
 ```ghost
     artemis.adrvMoveA16()
@@ -16,5 +16,5 @@ Guide the Agent using the ``||artemis.agent move||`` block to each piece of debr
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

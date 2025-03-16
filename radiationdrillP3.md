@@ -2,10 +2,11 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Radiation Drill Player 3
+# Учения по радиации Игрок 3
 
 ## Step 1
-Each player will have their own individual tasks. Your task will be to surround the shelter with cargo using the ``||artemis: surround shelter||`` block. Don't run your code until your team communicator tells you to.
+У каждого игрока будут свои индивидуальные задачи. Твоя задача — окружить укрытие грузом с помощью блока "окружить укрытие". Не запускай свой код, пока твой коммуникатор в команде не скажет тебе это сделать.
+
 
 ```ghost
     artemis.clearShelterA3P2()
@@ -17,5 +18,5 @@ Each player will have their own individual tasks. Your task will be to surround 
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.66
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```

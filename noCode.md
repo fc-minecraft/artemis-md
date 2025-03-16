@@ -3,10 +3,10 @@
 ### @explicitHints true
 
 
-# No Coding Needed
+# Код не требуется
 
 ## Step 1
-There aren't any coding activities active.
+Сейчас писать код не требуется.
 
 
 ```ghost

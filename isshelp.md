@@ -2,10 +2,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# ISS Help
+# Помощь МКС
 
 ## Step 1
-Extend the robotic arm using the ``||artemis.extend arm||`` block to the red piece of cargo and then use the ``||artemis.load cargo||`` block to grab it and load it onto the ISS.
+Выдвинь роботизированную руку с помощью блока "выдвинуть руку" к красному грузу и затем используй блок "загрузить груз", чтобы схватить его и загрузить на МКС.
 
 ```ghost
     artemis.extendArmA21()
@@ -16,5 +16,5 @@ Extend the robotic arm using the ``||artemis.extend arm||`` block to the red pie
 ```
 
 ```package
-artemis-ts=github:ReWrite-Media/artemis-ts#v0.0.56
+artemis-ts=github:fc-minecraft/artemis-ts#v0.0.1
 ```
